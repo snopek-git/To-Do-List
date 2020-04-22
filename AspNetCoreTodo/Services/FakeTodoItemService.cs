@@ -13,7 +13,7 @@ namespace AspNetCoreTodo.Services
         {
             var item1 = new TodoItem
             {
-                Title = "Read the book about ASP .NET",
+                Title = "Read your book",
                 DueAt = DateTimeOffset.Now.AddDays(2)
             };
 
